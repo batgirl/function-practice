@@ -1,5 +1,5 @@
 var peopleCats = ["usaama", "hana"];
-var actualCats = ["binx", "teeny", "ms. purr"];
+var actualCats = ["binx", ["teeny", "ms. purr"]];
 var fakeCats = {kitty: "chubs"};
 var smellyCats = "pheobe";
 
